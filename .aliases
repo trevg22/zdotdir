@@ -2,6 +2,26 @@
 #
 # .aliases - Set whatever shell aliases you want.
 #
+#git alias
+alias gc='git commit'
+alias gca='git commit --amned --no-edit'
+alias gps='git push'
+alias gpl='git pull'
+alias gf='git fetch'
+alias gm='git merge'
+
+#same but for vim fugitive
+alias Gc='Git commit'
+alias Gca='Git commit --amned --no-edit'
+alias Gps='Git push'
+alias Gpl='Git pull'
+alias Gf='Git fetch'
+alias Gm='Git merge'
+
+#env aliases
+alias cmB='cmake -B build'
+alias cmb='cmake --build build'
+
 
 # single character aliases - be sparing!
 alias _=sudo
