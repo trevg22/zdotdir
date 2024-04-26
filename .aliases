@@ -5,7 +5,7 @@
 #git alias
 alias gs='git status'
 alias gc='git commit'
-alias gca='git commit --amned --no-edit'
+alias gca='git commit --amend --no-edit'
 alias gps='git push'
 alias gpl='git pull'
 alias gf='git fetch'
