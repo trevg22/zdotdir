@@ -33,3 +33,6 @@ path=(
   /usr/local/{,s}bin(N)
   $path
 )
+
+# Created by `pipx` on 2024-05-06 01:06:49
+export PATH="$PATH:/home/trevor/.local/bin"
