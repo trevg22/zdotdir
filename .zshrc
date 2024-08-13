@@ -24,5 +24,6 @@ autoload -Uz $fpath[1]/*(.:t)
 source ${ZDOTDIR:-~}/.antidote/antidote.zsh
 antidote load
 
+eval "$(zoxide init zsh)"
 # Created by `pipx` on 2024-05-06 01:06:49
 export PATH="$PATH:/home/trevor/.local/bin"
