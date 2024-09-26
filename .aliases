@@ -3,6 +3,8 @@
 # .aliases - Set whatever shell aliases you want.
 #
 #git alias
+alias ga='git add'
+alias gau'git add -u'
 alias gs='git status'
 alias gc='git commit'
 alias gca='git commit --amend --no-edit'
@@ -11,14 +13,6 @@ alias gpl='git pull'
 alias gf='git fetch'
 alias gm='git merge'
 alias gco='git checkout'
-
-#same but for vim fugitive
-alias Gc='Git commit'
-alias Gca='Git commit --amned --no-edit'
-alias Gps='Git push'
-alias Gpl='Git pull'
-alias Gf='Git fetch'
-alias Gm='Git merge'
 
 #env aliases
 alias cmB='cmake -B build'
