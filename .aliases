@@ -10,6 +10,7 @@ alias gps='git push'
 alias gpl='git pull'
 alias gf='git fetch'
 alias gm='git merge'
+alias gco='git checkout'
 
 #same but for vim fugitive
 alias Gc='Git commit'
